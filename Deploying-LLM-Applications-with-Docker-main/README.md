@@ -1,6 +1,5 @@
 # Deploying LLM Applications with Docker
 
-Follow the tutorial: https://www.datacamp.com/tutorial/deploy-llm-applications-using-docker
 
 There are two main approaches to developing and deploying AI applications:
 - **Fully Open Source**: This approach emphasizes privacy and data protection.
